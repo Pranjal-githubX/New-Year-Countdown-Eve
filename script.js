@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
             })
         }
         if (previousValues.seconds !== remainingSeconds) {
-            console.log("Seconds changed");
+            // console.log("Seconds changed");
             gsap.fromTo(seconds, {
                 y: 20,
                 opacity: 0,
