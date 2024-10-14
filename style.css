@@ -16,7 +16,7 @@ body {
 main {
     height: 100vh;
     width: 100%;
-    background-image: url("https://img.freepik.com/free-photo/galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media_53876-126761.jpg?w=1380&t=st=1728910650~exp=1728911250~hmac=74645b53c249ae3b9eec1bd8cca3143eb42e8abc84f8deb442b3fe920203578a");
+    background-image: url("https://images.unsplash.com/photo-1477346611705-65d1883cee1e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
     background-position: top;
     background-size: cover;
     display: flex;
