@@ -101,5 +101,5 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     updateCountdown(); // Initial update
-    setInterval(updateCountdown, 1000); // Update every second
+    setInterval(updateCountdown, 500); // Update every second
 });
